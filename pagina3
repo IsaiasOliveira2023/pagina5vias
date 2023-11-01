@@ -1,12 +1,15 @@
 <!DOCTYPE html>
 <html>
 <body>
+<head>
+    <title>Página 3</title>
+</head>
 
-<img src="imagem/img2.jpg" alt="" style="width:600px;height:600px;">
-<p>digite seu texto aqui</p><br>
+<img src="imagem/img2.jpg" alt="" style="width:500px;height:600px;">
+<p>yamaha r3 esta entre as motos que pretendo comprar</p><br>
 
-<img src="imagem/img3.jpg" alt="" style="width:600px;height:600px;">
-<p>digite seu texto aqui</p><br>
+<img src="imagem/img3.jpg" alt="" style="width:500px;height:600px;">
+<p>cbr 500  a moto que compete com a r3 ainda estou em duvidas sobre qual usar</p><br>
 
          <p><a href="https://isaiasoliveira2023.github.io/pagina5vias/">Voltar a Home</a></p>
 </body>
