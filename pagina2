@@ -6,8 +6,8 @@
 <body>
  <h1>Pagina 2</h1>
 
-<img src="imagem/img1.jpg" alt="" style="width:600px;height:600px;">
-<p>Isaias Oliveira estudante de ADS faculdade Municipal da Palhoça SC</p>
-         <p><a href="https://isaiasoliveira2023.github.io/pagina5vias/">Voltar a Home</a></p>
+ <img src="imagem/img1.jpg" alt="" style="width:600px;height:600px;">
+ <p>Isaias Oliveira estudante de ADS faculdade Municipal da Palhoça SC</p>
+ <p><a href="https://isaiasoliveira2023.github.io/pagina5vias/">Voltar a Home</a></p>
 </body>
 </html>
